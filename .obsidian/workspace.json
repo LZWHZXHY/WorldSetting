@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "彼岸宇宙/角色/云绍.md",
+                "file": "彼岸宇宙/可公开世界观设定 v1.0.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "云绍"
+              "title": "可公开世界观设定 v1.0.0"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 201.5
   },
   "right": {
     "id": "f9961f0b2266672a",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "彼岸宇宙/角色/云绍.md",
+                "file": "彼岸宇宙/可公开世界观设定 v1.0.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "彼岸宇宙/角色/云绍.md",
+                "file": "彼岸宇宙/可公开世界观设定 v1.0.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "彼岸宇宙/角色/云绍.md",
+                "file": "彼岸宇宙/可公开世界观设定 v1.0.0.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,6 +190,11 @@
   },
   "active": "533344f854cecebb",
   "lastOpenFiles": [
+    "彼岸宇宙/世界设定/力量体系/超凡途径- 七大律.md",
+    "彼岸宇宙/可公开世界观设定 v1.0.0.md",
+    "彼岸宇宙/世界设定/力量体系/虚无粒子与觉醒.md",
+    "彼岸宇宙/世界设定/力量体系/间隙粒子/间隙粒子（Interstitial Particle）.md",
+    "彼岸宇宙/角色/云绍.md",
     "彼岸宇宙/版本更新规则.md",
     "彼岸宇宙/短片制作/片段1_元绍片段.md",
     "彼岸宇宙/物品道具/体力药水.md",
