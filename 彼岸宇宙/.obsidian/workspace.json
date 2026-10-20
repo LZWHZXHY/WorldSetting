@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "可公开世界观设定 v1.0.0.md",
+                "file": "角色/云绍.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "可公开世界观设定 v1.0.0"
+              "title": "云绍"
             }
           },
           {
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "可公开世界观设定 v1.0.0.md",
+                "file": "角色/云绍.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -200,9 +200,11 @@
   },
   "active": "b3b7b09e561f6cca",
   "lastOpenFiles": [
+    "世界设定/生命层次.md",
+    "世界设定/兼容性.md",
+    "可公开世界观设定 v1.0.0.md",
     "世界设定/力量体系/间隙粒子/间隙粒子染色理论.md",
     "版本更新规则.md",
-    "可公开世界观设定 v1.0.0.md",
     "世界设定/力量体系/超凡途径- 七大律.md",
     "角色/云绍.md",
     "世界设定/力量体系/间隙粒子/间隙粒子（Interstitial Particle）.md",
@@ -226,8 +228,6 @@
     "世界设定/力量体系/七大律/【彼岸】- 彼岸律.md",
     "世界设定/力量体系/七大律/【污染】- 污染律.md",
     "世界设定/力量体系/七大律/【信仰】- 信仰律.md",
-    "世界设定/力量体系/七大律/隐性 - 因果律.md",
-    "世界设定/力量体系/天赋能力/天赋能力.md",
     "物品道具",
     "建筑/店铺",
     "建筑",
